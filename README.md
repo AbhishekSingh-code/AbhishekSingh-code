@@ -1,5 +1,11 @@
-# 💫 About Me:
-I'm Abhishek Singh Bhadauria.
+## 👨‍💻 About Me
+
+- 🎓 BCA Student at Silver Oak University
+- 💻 Learning Web Development, DSA, and AI Tools
+- 🌱 Currently exploring JavaScript, MERN Stack, and Modern AI Workflows
+- 🧩 Solving problems on LeetCode to improve problem-solving skills
+- 🚀 Building projects to strengthen development skills
+- 🎯 Goal: Become a Full-Stack Developer and Software Engineer
 
 
 ## 🌐 Socials:
